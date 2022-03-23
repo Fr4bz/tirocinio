@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "startup name generator",
+      title: 'pagina iniziale',
       home: RandomWords(),
     );
   }
@@ -53,5 +53,3 @@ class _RandomWordsState extends State<RandomWords> {
     );
   }
 }
-
-//to-do: leggere spiegazione delle varie parti dello stato /1/ /2/ /3/ /4/

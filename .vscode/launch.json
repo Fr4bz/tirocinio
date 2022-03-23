@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        
+
+        {
+            "name": "Flutter (lib\\main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "cwd": "appprova\\prova",
+            "program": "lib\\main_foto.dart"
+        }
+    ]
+}
